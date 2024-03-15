@@ -1,6 +1,9 @@
 # Esse é um projeto fullstack que foi feito como um exercício que envolve um canil e um petshop;
+
 #Nesse projeto eu implementei um pequeno crud que quando a pessoa usar o formulário para saber qual canil vale mais a pena, e quanto ficará, o valor será guaradado em uma tabela;
+
 #As imagens do layout das páginas estão disponíveis n pasta 'img';
+
 #Sobre o Front-End:
 - Foi usado no projeto o react-router-dom;
 - Foi usado no projeto o react-bootstrap;
