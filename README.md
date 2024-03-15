@@ -5,6 +5,7 @@
 #As imagens do layout das páginas estão disponíveis n pasta 'img';
 
 #Sobre o Front-End:
+- A linguegaem utilizada foi no React;
 - Foi usado no projeto o react-router-dom;
 - Foi usado no projeto o react-bootstrap;
 - Foi usada a biblioteca do javaScript 'date-fns' que forneceu funções para a manipulação de datas;
