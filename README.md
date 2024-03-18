@@ -1,8 +1,8 @@
-# Esse é um projeto fullstack que foi feito como um exercício que envolve um canil e um petshop;
+# Este é um projeto fullstack que foi feito como um exercício que envolve um canil e um petshop;
 
-#Nesse projeto eu implementei um pequeno crud que quando a pessoa usar o formulário para saber qual canil vale mais a pena, e quanto ficará, o valor será guaradado em uma tabela;
+#Neste projeto eu implementei um pequeno crud que quando a pessoa usar o formulário para saber qual canil vale mais a pena, e quanto ficará, o valor será guardado em uma tabela;
 
-#As imagens do layout das páginas estão disponíveis n pasta 'img';
+#As imagens do layout das páginas estão disponíveis na pasta 'img';
 
 #Sobre o Front-End:
 - A linguagem utilizada foi o React;
