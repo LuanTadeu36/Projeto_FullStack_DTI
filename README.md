@@ -12,13 +12,13 @@
 - Foi feita uma área que é so para a apresentação da Tabela;
 
 #Sobre o Back-End:
--Foi feito utilizando a linguagem javaScript;
--Foi utilizado o node.js para a criação do backend;
--O mongoose é a biblioteca responsável por acessar o banco de dados;
--O framework utilizado foi o Express;
--Foi usado o postman para fazer o teste da api antes de ser usada na aplicação;
+- Foi feito utilizando a linguagem javaScript;
+- Foi utilizado o node.js para a criação do backend;
+- O mongoose é a biblioteca responsável por acessar o banco de dados;
+- O framework utilizado foi o Express;
+- Foi usado o postman para fazer o teste da api antes de ser usada na aplicação;
 
 #Para que o código funcione:
--O nodemon deve estar aberto no terminal para que o backend seja pego(comando: 'npm run dev');
--Para que o backend esteja funcionando, o mongo tem que estar aberto(comando: 'mongod');
+- O nodemon deve estar aberto no terminal para que o backend seja pego(comando: 'npm run dev');
+- Para que o backend esteja funcionando, o mongo tem que estar aberto(comando: 'mongod');
 
